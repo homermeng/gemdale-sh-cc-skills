@@ -43,11 +43,13 @@
     },
     {
       "name": "gemdale-sh-skills",
-      "description": "Collection of skills for Gemdale Shanghaitech's use case including knowledge base Q&A, meeting summarization, and content creation",
+      "description": "金地上海地区公司claude code自定义业务skills合集",
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/content-creator"
+        "./skills/content-creator",
+        "./skills/customer-analysis-low-rise",
+        "./skills/customer-visit-analysis"
       ]
     }
   ]
